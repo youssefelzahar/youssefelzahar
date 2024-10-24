@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **youssefalzahar12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1-AOXXeWFaypWw2GC_SEuqfHP6tCo-rtb](https://drive.google.com/drive/u/0/folders/1-AOXXeWFaypWw2GC_SEuqfHP6tCo-rtb)
+- 📄 Know about my experiences on data science https://youssefelzahar.github.io/
+- 📄 Know about my experiences on Laravel https://youssefelzahar.github.io/youssefelzaharlaravel.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
