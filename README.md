@@ -74,6 +74,7 @@
     <ul>
   <li><a href="https://github.com/youssefelzahar/HRMS">Human Resource Management System</a></li>
   <li><a href="https://github.com/youssefelzahar/blog-app">Blog App</a></li>
+  <li><a href="https://github.com/youssefelzahar/school_system_laravel_api">School system API</li>    
     </ul>
   </h10>
   <h11> Database
