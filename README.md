@@ -34,10 +34,12 @@
 
 <h3 align="left">Highlighted Projects:</h3>
 <ul>
-  <h>"NLP"
+  <h4>NLP
+    <ul>
   <li><a href="https://github.com/youssefelzahar/movies_recomdendations">NLP: Movies Recommendation System</a></li>
   <li><a href="https://github.com/youssefelzahar/spam_detection_model">NLP: Spam Detection Model</a></li>
-  </h>
+    </ul>
+  </h4>
   <li><a href="https://github.com/youssefelzahar/signlanguage">Computer Vision: Sign Language Recognition</a></li>
   <li><a href="https://github.com/youssefelzahar/EGY_Education_model_EDA">Machine Learning: Egyptian Education Language Model</a></li>
   <li><a href="https://github.com/youssefelzahar/-credit-card-fraud-detection">Machine Learning: Credit Card Fraud Detection</a></li>
