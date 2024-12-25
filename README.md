@@ -34,12 +34,14 @@
 
 <h3 align="left">Highlighted Projects:</h3>
 <ul>
+  <h>"NLP"
   <li><a href="https://github.com/youssefelzahar/movies_recomdendations">NLP: Movies Recommendation System</a></li>
   <li><a href="https://github.com/youssefelzahar/spam_detection_model">NLP: Spam Detection Model</a></li>
+  </h>
   <li><a href="https://github.com/youssefelzahar/signlanguage">Computer Vision: Sign Language Recognition</a></li>
   <li><a href="https://github.com/youssefelzahar/EGY_Education_model_EDA">Machine Learning: Egyptian Education Language Model</a></li>
   <li><a href="https://github.com/youssefelzahar/-credit-card-fraud-detection">Machine Learning: Credit Card Fraud Detection</a></li>
-  <li><a href="https://github.com/youssefelzahar/youssefelzahar-Electric-Vehicle-Population-Data">Electric Vehicle Population Data Analysis</a></li>
+  <li><a href="https://github.com/youssefelzahar/youssefelzahar-Electric-Vehicle-Population-Data">Machine learning Electric Vehicle Population Data </a></li>
   <li><a href="https://github.com/youssefelzahar/AirPassanger_time_series">Time Series: Air Passenger Forecasting</a></li>
   <li><a href="https://github.com/youssefelzahar/Forecasting-sales-for-10-days">Time Series: 10-Day Sales Forecasting</a></li>
   <li><a href="https://github.com/youssefelzahar/top-205-movies-in-imdb">Data Analysis: Top 200 IMDb Movies</a></li>
