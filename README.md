@@ -40,18 +40,46 @@
   <li><a href="https://github.com/youssefelzahar/spam_detection_model">NLP: Spam Detection Model</a></li>
     </ul>
   </h4>
+  <h5>Computer vision
+    <ul>
   <li><a href="https://github.com/youssefelzahar/signlanguage">Computer Vision: Sign Language Recognition</a></li>
+    </ul>
+  </h5>
+  <h6> Machine learning
+    <ul>
   <li><a href="https://github.com/youssefelzahar/EGY_Education_model_EDA">Machine Learning: Egyptian Education Language Model</a></li>
   <li><a href="https://github.com/youssefelzahar/-credit-card-fraud-detection">Machine Learning: Credit Card Fraud Detection</a></li>
   <li><a href="https://github.com/youssefelzahar/youssefelzahar-Electric-Vehicle-Population-Data">Machine learning Electric Vehicle Population Data </a></li>
+    </ul>
+  </h6>
+  <h7>Time serires
+    <ul>
   <li><a href="https://github.com/youssefelzahar/AirPassanger_time_series">Time Series: Air Passenger Forecasting</a></li>
   <li><a href="https://github.com/youssefelzahar/Forecasting-sales-for-10-days">Time Series: 10-Day Sales Forecasting</a></li>
+    </ul>
+  </h7>
+  <h8> web scraping, ml and power bi
+    <ul>
   <li><a href="https://github.com/youssefelzahar/top-205-movies-in-imdb">Data Analysis: Top 200 IMDb Movies</a></li>
+    </ul>
+  </h8>
+  <h9> Data analysis and power bi
+    <ul>
   <li><a href="https://github.com/youssefelzahar/curry-shots-analysis">Curry Shots Analysis</a></li>
   <li><a href="https://github.com/youssefelzahar/Analysis-of-Vehicle-Accident-in-SQL">SQL: Vehicle Accident Analysis</a></li>
+    </ul>
+  </h9>
+  <h10>Laravel
+    <ul>
   <li><a href="https://github.com/youssefelzahar/HRMS">Laravel: Human Resource Management System</a></li>
   <li><a href="https://github.com/youssefelzahar/blog-app">Laravel: Blog App</a></li>
+    </ul>
+  </h10>
+  <h11> Database
+    <ul>
   <li><a href="https://github.com/youssefelzahar/EcomDB">Database: E-commerce DB (MySQL)</a></li>
+    </ul>
+  </h11>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefelzahar&show_icons=true&locale=en&layout=compact" alt="youssefelzahar" /></p>
