@@ -82,7 +82,7 @@
   <li><a href="https://github.com/youssefelzahar/EcomDB">E-commerce DB (MySQL)</a></li>
     </ul>
   </h11>
-  <h12>
+  <h12>LLM
     <ul>
       <li><a href="https://github.com/youssefelzahar/fine-tunnig-Helsinki-translate-ar-to-en">fine-tunnig(Helsinki) translate ar to en</a>
 </li>
