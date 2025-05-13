@@ -51,6 +51,7 @@
   <li><a href="https://github.com/youssefelzahar/EGY_Education_model_EDA">Egyptian Education Language Model</a></li>
   <li><a href="https://github.com/youssefelzahar/-credit-card-fraud-detection">Credit Card Fraud Detection</a></li>
   <li><a href="https://github.com/youssefelzahar/youssefelzahar-Electric-Vehicle-Population-Data">Electric Vehicle Population Data </a></li>
+  <li><a href="https://github.com/youssefelzahar/Marketing_campaign_ML_model">Marketing campaign ML model </a></li>    
     </ul>
   </h6>
   <h7>Time serires
