@@ -86,6 +86,7 @@
   <h12>LLM
     <ul>
       <li><a href="https://github.com/youssefelzahar/fine-tunnig-Helsinki-translate-ar-to-en">fine-tunnig(Helsinki) translate ar to en</a>
+      <li><a href="https://github.com/youssefelzahar/Chatbot_finetuning">Chatbot for medical questions (Fine tuning and LLM)</a></li>  
 </li>
   </h12>  
 </ul>
