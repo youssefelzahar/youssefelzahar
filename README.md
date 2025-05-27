@@ -57,7 +57,7 @@
   <h7>Time serires
     <ul>
   <li><a href="https://github.com/youssefelzahar/AirPassanger_time_series">Air Passenger Forecasting</a></li>
-  <li><a href="https://github.com/youssefelzahar/Forecasting-sales-for-10-days">10-Day Sales Forecasting</a></li>
+  <li><a href="https://github.com/youssefelzahar/Forecasting_Sales">10-Day Sales Forecasting</a></li>
     </ul>
   </h7>
   <h8> web scraping, ml and power bi
