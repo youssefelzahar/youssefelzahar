@@ -38,6 +38,7 @@
     <ul>
   <li><a href="https://github.com/youssefelzahar/movies_recomdendations">Movies Recommendation System</a></li>
   <li><a href="https://github.com/youssefelzahar/spam_detection_model">Spam Detection Model</a></li>
+  <li><a href="https://github.com/youssefelzahar/auto_complete">Auto Complete Words</a></li>    
     </ul>
   </h4>
   <h5>Computer vision
