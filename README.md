@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Elzahar</h1>
-<h3 align="center">Data Scientist, Analyst, and Backend Developer (Laravel)</h3>
+<h3 align="center">Data Scientist, Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelzahar&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelzahar" /> </p>
 
@@ -7,12 +7,11 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/youssef-elzahar-620855186/](https://www.linkedin.com/in/youssef-elzahar-620855186/)
 
-- 💬 Ask me about **Machine Learning, Python, Laravel, Django, Deep Learning, NLP, SQL**
+- 💬 Ask me about **Machine Learning, Python, Laravel, Django, Deep Learning, NLP, SQL, Powerbi**
 
 - 📫 How to reach me: **youssefalzahar12@gmail.com**
 
 - 📄 Know about my experiences in Data Science: [https://youssefelzahar.github.io/](https://youssefelzahar.github.io/)  
-- 📄 Know about my experiences in Laravel: [https://youssefelzahar.github.io/youssefelzaharlaravel.github.io/](https://youssefelzahar.github.io/youssefelzaharlaravel.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
