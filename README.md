@@ -50,9 +50,10 @@
     <ul>
    <li><a href="https://github.com/youssefelzahar/Home_Credit_Risk">Home Credit Risk compition on kaggle</a></li>   
   <li><a href="https://github.com/youssefelzahar/EGY_Education_model_EDA">Egyptian Education Language Model</a></li>
-  <li><a href="https://github.com/youssefelzahar/-credit-card-fraud-detection">Credit Card Fraud Detection</a></li>
   <li><a href="https://github.com/youssefelzahar/youssefelzahar-Electric-Vehicle-Population-Data">Electric Vehicle Population Data </a></li>
   <li><a href="https://github.com/youssefelzahar/Marketing_campaign_ML_model">Marketing campaign ML model </a></li>    
+  <li><a href="https://github.com/youssefelzahar/Real-estate-of-egypt">Real-estate-of-egypt</a></li>    
+
     </ul>
   </h6>
   <h7>Time serires
@@ -84,14 +85,19 @@
   <li><a href="https://github.com/youssefelzahar/EcomDB">E-commerce DB (MySQL)</a></li>
     </ul>
   </h11>
-  <h12>LLM
+  <h12>LLM and RAG
     <ul>
-      <li><a href="https://github.com/youssefelzahar/fine-tunnig-Helsinki-translate-ar-to-en">fine-tunnig(Helsinki) translate ar to en</a>
       <li><a href="https://github.com/youssefelzahar/Chatbot_finetuning">Chatbot for medical questions (Fine tuning and LLM)</a></li>  
+            <li><a href="https://github.com/youssefelzahar/multi-org-chatbot">RAG system for Multi Organizations</a></li>  
+
+</li>
+  </h13>  
+    <h12>Fixed Solutions internship  projects
+    <ul>
+      <li><a href="https://github.com/youssefelzahar/chocolate_factory_analysis">chocolate_factory_analysis</a></li>  
+     <li><a href="https://github.com/youssefelzahar/multi-org-chatbot">RAG system for Multi Organizations</a></li>              
+     <li><a href="https://github.com/youssefelzahar/robo-fault">Robo Faults</a></li>  
+
 </li>
   </h12>  
 </ul>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefelzahar&show_icons=true&locale=en&layout=compact" alt="youssefelzahar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefelzahar&show_icons=true&locale=en" alt="youssefelzahar" /></p>
