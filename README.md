@@ -2,6 +2,7 @@
 <h3 align="center">Data Scientist, Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelzahar&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelzahar" /> </p>
+- Experience Data analyst and python developer at 3brothers, ex Full Stack Data Scientist intern at Fixed Solutions 
 
 - 👨‍💻 All of my projects are available at [https://github.com/youssefelzahar](https://github.com/youssefelzahar)
 
