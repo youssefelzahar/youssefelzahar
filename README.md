@@ -1,106 +1,90 @@
 <h1 align="center">Hi 👋, I'm Youssef Elzahar</h1>
-<h3 align="center">Data Scientist, Analyst</h3>
+<h3 align="center">Data Scientist | Data Analyst | Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelzahar&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelzahar" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/youssefelzahar](https://github.com/youssefelzahar)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/youssef-elzahar-620855186/](https://www.linkedin.com/in/youssef-elzahar-620855186/)
-
-- 💬 Ask me about **Machine Learning, Python, Laravel, Django, Deep Learning, NLP, SQL, Powerbi**
-
-- 📫 How to reach me: **youssefalzahar12@gmail.com**
-
-- 📄 Know about my experiences in Data Science: [https://youssefelzahar.github.io/](https://youssefelzahar.github.io/)
--  Experience Data analyst and python developer at 3brothers, ex Full Stack Data Scientist intern at Fixed Solutions 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yillzahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yillzahar" height="30" width="40" /></a>
-<a href="https://kaggle.com/youssefelzahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssefelzahar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssefelzahar&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelzahar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🚀 About Me
+- 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/youssefelzahar)
+- 📝 I regularly write insightful articles on [LinkedIn](https://www.linkedin.com/in/youssef-elzahar-620855186/)
+- 💬 Feel free to ask me about **Machine Learning, Python, Laravel, Django, Deep Learning, NLP, SQL, Power BI**
+- 📫 Reach me at: **youssefalzahar12@gmail.com**
+- 📄 Know more about my experience: [Portfolio Website](https://youssefelzahar.github.io/)
+- 💼 Experience: Data Analyst & Python Developer at **3Brothers** | ex Full-Stack Data Science Intern at **Fixed Solutions**
+
+---
+
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://twitter.com/yillzahar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yillzahar" height="30" width="40" /></a>
+  <a href="https://kaggle.com/youssefelzahar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssefelzahar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/youssef-elzahar-620855186/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/></a>
 </p>
 
-<h3 align="left">Highlighted Projects:</h3>
-<ul>
-  <h4>NLP
-    <ul>
-  <li><a href="https://github.com/youssefelzahar/movies_recomdendations">Movies Recommendation System</a></li>
-  <li><a href="https://github.com/youssefelzahar/spam_detection_model">Spam Detection Model</a></li>
-  <li><a href="https://github.com/youssefelzahar/auto_complete">Auto Complete Words</a></li>    
-    </ul>
-  </h4>
-  <h5>Computer vision
-    <ul>
-  <li><a href="https://github.com/youssefelzahar/signlanguage">Sign Language Recognition</a></li>
-    </ul>
-  </h5>
-  <h6> Machine learning
-    <ul>
-   <li><a href="https://github.com/youssefelzahar/Home_Credit_Risk">Home Credit Risk compition on kaggle</a></li>   
-  <li><a href="https://github.com/youssefelzahar/EGY_Education_model_EDA">Egyptian Education Language Model</a></li>
-  <li><a href="https://github.com/youssefelzahar/youssefelzahar-Electric-Vehicle-Population-Data">Electric Vehicle Population Data </a></li>
-  <li><a href="https://github.com/youssefelzahar/Marketing_campaign_ML_model">Marketing campaign ML model </a></li>    
-  <li><a href="https://github.com/youssefelzahar/Real-estate-of-egypt">Real-estate-of-egypt</a></li>    
+---
 
-    </ul>
-  </h6>
-  <h7>Time serires
-    <ul>
-  <li><a href="https://github.com/youssefelzahar/AirPassanger_time_series">Air Passenger Forecasting</a></li>
-  <li><a href="https://github.com/youssefelzahar/Forecasting_Sales">10-Day Sales Forecasting</a></li>
-    </ul>
-  </h7>
-  <h8> web scraping, ml and power bi
-    <ul>
-  <li><a href="https://github.com/youssefelzahar/top-205-movies-in-imdb">Top 200 IMDb Movies</a></li>
-    </ul>
-  </h8>
-  <h9> Data analysis and power bi
-    <ul>
-  <li><a href="https://github.com/youssefelzahar/curry-shots-analysis">Curry Shots Analysis</a></li>
-  <li><a href="https://github.com/youssefelzahar/Analysis-of-Vehicle-Accident-in-SQL">Vehicle Accident Analysis</a></li>
-    </ul>
-  </h9>
-  <h10>Laravel
-    <ul>
-  <li><a href="https://github.com/youssefelzahar/HRMS">Human Resource Management System</a></li>
-  <li><a href="https://github.com/youssefelzahar/blog-app">Blog App</a></li>
-  <li><a href="https://github.com/youssefelzahar/school_system_laravel_api">School system API</li>    
-    </ul>
-  </h10>
-  <h11> Database
-    <ul>
-  <li><a href="https://github.com/youssefelzahar/EcomDB">E-commerce DB (MySQL)</a></li>
-    </ul>
-  </h11>
-  <h12>LLM and RAG
-    <ul>
-      <li><a href="https://github.com/youssefelzahar/Chatbot_finetuning">Chatbot for medical questions (Fine tuning and LLM)</a></li>  
-            <li><a href="https://github.com/youssefelzahar/multi-org-chatbot">RAG system for Multi Organizations</a></li>  
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+</p>
 
-</li>
+---
 
-  </h12>  
-    </h13>  
-    <h12>Fixed Solutions internship  projects
-    <ul>
-      <li><a href="https://github.com/youssefelzahar/chocolate_factory_analysis">chocolate_factory_analysis</a></li>  
-     <li><a href="https://github.com/youssefelzahar/multi-org-chatbot">RAG system for Multi Organizations</a></li>              
-     <li><a href="https://github.com/youssefelzahar/robo-fault">Robo Faults</a></li>  
+### 🌟 Highlighted Projects
 
-</li>
-    </h13>  
+#### 🧠 Natural Language Processing (NLP)
+- [🎬 Movies Recommendation System](https://github.com/youssefelzahar/movies_recomdendations)
+- [📧 Spam Detection Model](https://github.com/youssefelzahar/spam_detection_model)
+- [📝 Auto-complete Words](https://github.com/youssefelzahar/auto_complete)
 
-</ul>
+#### 👁️‍🗨️ Computer Vision
+- [🤟 Sign Language Recognition](https://github.com/youssefelzahar/signlanguage)
+
+#### 📊 Machine Learning
+- [🏦 Home Credit Risk (Kaggle Competition)](https://github.com/youssefelzahar/Home_Credit_Risk)
+- [📚 Egyptian Education Language Model](https://github.com/youssefelzahar/EGY_Education_model_EDA)
+- [⚡ Electric Vehicle Population Analysis](https://github.com/youssefelzahar/youssefelzahar-Electric-Vehicle-Population-Data)
+- [📈 Marketing Campaign ML Model](https://github.com/youssefelzahar/Marketing_campaign_ML_model)
+- [🏠 Real Estate Market in Egypt](https://github.com/youssefelzahar/Real-estate-of-egypt)
+
+#### ⏳ Time Series
+- [✈️ Air Passenger Forecasting](https://github.com/youssefelzahar/AirPassanger_time_series)
+- [🛒 10-Day Sales Forecasting](https://github.com/youssefelzahar/Forecasting_Sales)
+
+#### 🌐 Web Scraping, ML, & Power BI
+- [🎥 Top 200 IMDb Movies](https://github.com/youssefelzahar/top-205-movies-in-imdb)
+
+#### 📊 Data Analysis & Power BI
+- [🏀 Curry Shots Analysis](https://github.com/youssefelzahar/curry-shots-analysis)
+- [🚗 Vehicle Accident Analysis (SQL)](https://github.com/youssefelzahar/Analysis-of-Vehicle-Accident-in-SQL)
+
+#### 💻 Laravel Projects
+- [👨‍💼 Human Resource Management System](https://github.com/youssefelzahar/HRMS)
+- [📰 Blog App](https://github.com/youssefelzahar/blog-app)
+- [🏫 School System API](https://github.com/youssefelzahar/school_system_laravel_api)
+
+#### 🗄️ Databases
+- [🛍️ E-commerce Database (MySQL)](https://github.com/youssefelzahar/EcomDB)
+
+#### 🧠 LLMs and RAG Systems
+- [💬 Chatbot for Medical Questions (Fine-Tuning & LLM)](https://github.com/youssefelzahar/Chatbot_finetuning)
+- [🏢 Multi-Organization RAG System](https://github.com/youssefelzahar/multi-org-chatbot)
+
+#### 🧩 Internship Projects (Fixed Solutions)
+- [🍫 Chocolate Factory Analysis](https://github.com/youssefelzahar/chocolate_factory_analysis)
+- [🏢 Multi-Organization RAG System](https://github.com/youssefelzahar/multi-org-chatbot)
+- [🤖 Robo Faults Detection](https://github.com/youssefelzahar/robo-fault)
+
+---
+
+</p>
