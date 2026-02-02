@@ -91,7 +91,9 @@
             <li><a href="https://github.com/youssefelzahar/multi-org-chatbot">RAG system for Multi Organizations</a></li>  
 
 </li>
-  </h13>  
+
+  </h12>  
+    </h13>  
     <h12>Fixed Solutions internship  projects
     <ul>
       <li><a href="https://github.com/youssefelzahar/chocolate_factory_analysis">chocolate_factory_analysis</a></li>  
@@ -99,5 +101,6 @@
      <li><a href="https://github.com/youssefelzahar/robo-fault">Robo Faults</a></li>  
 
 </li>
-  </h12>  
+    </h13>  
+
 </ul>
