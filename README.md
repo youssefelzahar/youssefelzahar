@@ -108,6 +108,8 @@
 - [🏢 Multi-Organization RAG System](https://github.com/youssefelzahar/multi-org-chatbot)
 - [🤖 Robo Faults Detection](https://github.com/youssefelzahar/robo-fault)
 
+### AI Engineering
+- [Ai Data Analysis](https://github.com/youssefelzahar/ai_data_analyst)
 ---
 
 </p>
