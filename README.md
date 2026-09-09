@@ -110,6 +110,7 @@
 
 ### AI Engineering
 - [Ai Data Analysis](https://github.com/youssefelzahar/ai_data_analyst)
+- [AI Root Cause Analysis Platform](https://github.com/youssefelzahar/AI-Root-Cause-Analysis-Platform-BRD)
 ---
 
 </p>
